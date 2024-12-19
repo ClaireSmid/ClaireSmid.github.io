@@ -1,2 +1,7 @@
 source "https://rubygems.org"
-gemspec
+
+gem "jekyll"
+gem "minimal-mistakes-jekyll"
+gem "csv"
+gem "base64"
+gem "faraday-retry"

@@ -4,7 +4,21 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<!-- About Me Section -->
+<section class="homepage-about">
+  <h1>About Me</h1>
+  <p>
+    Hi, I’m Claire, a data scientist based in London. I specialize in solving business problems with machine learning and custom algorithms.<br><br>
+    Before being a commercial data scientist, I had another life as a Cognitive Neuroscientist. You can have a look at my past research and publications
+    in the <em>Academic Work</em> section.<br><br>
+    Besides brains and data science, I'm passionate about financial literacy, literature and gaming. I'm also interested in sharing experiences and speaking opportunities, 
+    so my goal for 2025 is to enagage in more public speaking events.<br><br>
+    Get in touch if there is anything I could help you with!
+  </p>
+</section>
+
+<!-- Recent Posts Section -->
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
 
 {% if paginator %}
   {% assign posts = paginator.posts %}

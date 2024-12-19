@@ -1,0 +1,21 @@
+- title: "Financial Literacy with Claire"
+  type: "Talk"
+  description: >
+    I have a real passion for financial literacy, so I'm sometimes asked to present on the basics, for example for university
+    students or internally at my current company. In this talk, I go over the essentials: budgeting, saving and investing. It's a 
+    short and light-hearted talk about how we can start working on our financial plans
+  image: "/assets/images/xelix_financial_literacy_2024.jpg"
+  github_url: ""
+  slides_url: "https://docs.google.com/presentation/d/1Bg7VrpNtKj8H1GDxNVn0EfkL24J-iHDikVQFGtIcqbE/edit?usp=sharing"
+  doc_url: ""
+
+- title: "Computational modeling of goal-directed and habitual reinforcement-learning strategies"
+  type: "Workshop"
+  description: >
+    At the Flux 2021 conference, together with one of my supervisors we taught a workshop on computational modeling to
+    neuroscientists. We developed a Python tutorial with exercises and solutions, and demonstrated how we can simulate
+    both model-free and model-based behaviour. The full workshop is available on my Github and is open access.
+  image: "/assets/images/rl_workshop.png"
+  github_url: "https://github.com/ClaireSmid/Model-free_Model-based_Workshop"
+  slides_url: ""
+  doc_url: ""

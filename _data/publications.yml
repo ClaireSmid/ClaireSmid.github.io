@@ -1,0 +1,84 @@
+- title: >
+    Cognitive control training with domain-general response inhibition
+    does not change children’s brains or behavior.
+  description: >
+    My first Nature Neuroscience paper! We explain the outcomes of a 
+    long-term brain training study, and find that -essentially- there 
+    weren't many effects.
+  citation: >
+    Ganesan, K.<sup>1</sup>, Thompson, A.<sup>1</sup>, **Smid, C. R.***<sup>1</sup>, Cañigueral, R.<sup>1</sup>, Li, Y., 
+    Revill, G., ... & Steinbeis, N. (2024). Cognitive control training 
+    with domain-general response inhibition does not change children’s 
+    brains or behavior. _Nature Neuroscience_, 1-12.<br><br>[All authors with <sup>1</sup> are shared first]
+  image: "/assets/images/nat_neuro_2024.webp"
+  url: "https://doi.org/10.1038/s41593-024-01672-w"
+  github_url: ""
+
+
+- title: >
+    Neurocognitive basis of model-based decision making and its 
+    metacontrol in childhood
+  description: >
+    This paper delves deeper in the arbitration between model-free and 
+    model-based approaches to reinforcement learning in humans, and 
+    includes an analysis on structural brain data and how that might 
+    influence decision-making.
+  citation: >
+    **Smid, C. R.**, Ganesan, K., Thompson, A., Cañigueral, R., Veselic, S., Royer, J., ... & Steinbeis, N. (2023). 
+    Neurocognitive basis of model-based decision making and its metacontrol in childhood. _Developmental Cognitive Neuroscience_, 62, 101269.
+  image: "/assets/images/dev_cog_sci_brain_2023.jpg"
+  url: "https://doi.org/10.1016/j.dcn.2023.101269"
+  github_url: "https://github.com/ClaireSmid/Neurocognitive_Basis_Metacontrol"
+
+- title: >
+    Computational and behavioral markers of model‐based decision making in childhood
+  description: >
+    This was my first paper investigating how reinforcement learning in humans across the lifespan, looks like,
+    and how we decide between more "model-free" or "model-based" approaches. The paper included a lot of model-fitting
+    and working with noisy data, but it's probably my favorite publication so far.
+  citation: >
+    **Smid, C. R.**, Kool, W., Hauser, T. U., & Steinbeis, N. (2023). Computational and behavioral markers of model‐based decision making 
+    in childhood. _Developmental science_, 26(2), e13295
+  image: "/assets/images/dev_sci_2023.jpg"
+  url: "https://doi.org/10.1111/desc.13295"
+  github_url: "https://github.com/ClaireSmid/Model-based_Model-free_Developmental"
+
+- title: >
+    Interventions for Improving Executive Functions During Development: Working Memory, 
+      Cognitive Flexibility and Inhibition
+  description: >
+    My supervisor and I contributed with a book chapter in this handbook. This was my first book chapter.
+  citation: >
+      N. Steinbeis & **Claire R. Smid.** (2022) Interventions for Improving Executive Functions During Development: Working Memory, 
+      Cognitive Flexibility and Inhibition, in: _The Cambridge handbook of cognitive development_. Houdé, O., & Borst, G. (Eds.). 
+      Cambridge University Press.
+  image: "/assets/images/cambridge_handbook.png"
+  url: "https://doi.org/10.1017/9781108399838"
+  github_url: ""
+
+
+- title: >
+    Toward a science of effective cognitive training
+  description: >
+    In this review paper, we tried to pinpoint the actual mechanisms that lead to effective training and intervention programs. This is
+    my most cited paper 🤓
+  citation: >
+    **Smid, C. R.**, Karbach, J., & Steinbeis, N. (2020). Toward a science of effective cognitive training. 
+    _Current Directions in Psychological Science_, 29(6), 531-537.
+  image: "/assets/images/training_overview.jpeg"
+  url: "https://doi.org/10.1177/09637214209515"
+  github_url: ""
+
+- title: >
+    Effects of maternal deprivation and complex housing on rat social behavior in adolescence and adulthood
+  description: >
+    During my masters, I was part of a Translational Neuroscience lab where we did research on the holistic interplay of drugs, environment, and stress.
+    This was the first ever paper I helped contribute to, and thought me the academic process.
+  citation: >
+    Kentrop, J., **Smid, C. R.**, Achterberg, E. J. M., Van IJzendoorn, M. H., Bakermans-Kranenburg, M. J., Joëls, M., 
+    & Van der Veen, R. (2018). Effects of maternal deprivation and complex housing on rat social behavior in 
+    adolescence and adulthood. _Frontiers in behavioral neuroscience_, 12, 193.
+  image: "/assets/images/mat_deprivation_study.jpg"
+  url: "https://doi.org/10.3389/fnbeh.2018.00193"
+  github_url: ""
+
